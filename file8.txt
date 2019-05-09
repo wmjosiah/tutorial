@@ -1,1 +1,4 @@
 New version of file8
+This is a file
+This is another line
+Here's a change that isn't in the other version of the file
