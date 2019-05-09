@@ -1,2 +1,1 @@
-This is a file
-This is another line
+New version of file8
